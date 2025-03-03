@@ -12,5 +12,7 @@ This repository serves as a collection of AI projects that demonstrate various t
 
 ## Projects
 
-### 1 AI Assitant
+### 1. AI Assitant
 OpenAI powered Assitant, uses an OpenAI key to prompt ChatGPT using voice recognized commands by the user. 
+
+### 2. ???
