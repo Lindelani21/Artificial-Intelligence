@@ -15,4 +15,5 @@ This repository serves as a collection of AI projects that demonstrate various t
 ### 1. AI Assitant
 OpenAI powered Assitant, uses an OpenAI key to prompt ChatGPT using voice recognized commands by the user. 
 
-### 2. ???
+### 2. Neural Network Init
+First attempt at creating a nueral network. The project is a class file that initiates a nueral network using a single linear function
